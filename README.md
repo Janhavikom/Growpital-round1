@@ -1,5 +1,6 @@
 # Growpital-round1
 #Round 1 Tasks
+(Task 2 has both the pages and clicking on continue on the first page redirects to the pop up where the data is displayed from the json file.)
 
 --> UI after opening 
 ![image](https://user-images.githubusercontent.com/84494006/190635407-a3f2380b-b2c8-4e96-b580-be67782f323d.png)
